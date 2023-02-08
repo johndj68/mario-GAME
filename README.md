@@ -22,7 +22,7 @@
 <br>
 
 ## Sobre o mario-GAME
-Mini game do super mario, com o intuito de desviar dos abistaculos que aparecem pelo caminho.
+Mini game do super mario, com o intuito de desviar dos abstaculos que aparecem pelo caminho.
 
 <br>
 <br>
